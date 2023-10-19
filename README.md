@@ -15,11 +15,11 @@
 
 # Programs List:
 ### 1. Implement A* Search algorithm.
-
+- [Click here to Download Pdf](https://github.com/AdarshVajpayee19/Aiml-Lab-Programs-VTU/blob/master/Program%20pdfs/LabProgram1.pdf)
 ### 2. Implement AO* Search algorithm.
-
+- [Click here to Download Pdf](https://github.com/AdarshVajpayee19/Aiml-Lab-Programs-VTU/blob/master/Program%20pdfs/LabProgram2.pdf)
 ### 3. Implement candidate Elimination algorithm.
-
+- [Click here to Download Pdf](https://github.com/AdarshVajpayee19/Aiml-Lab-Programs-VTU/blob/master/Program%20pdfs/LabProgram3.pdf)
 ### 4. Implement ID3 algorithm.
 
 ### 5. Backpropagation Algorithm.
