@@ -21,9 +21,9 @@
 ### 3. Implement candidate Elimination algorithm.
 - [Click here to Download Pdf](https://github.com/AdarshVajpayee19/Aiml-Lab-Programs-VTU/blob/master/Program%20pdfs/LabProgram3.pdf)
 ### 4. Implement ID3 algorithm.
-
+- [Click here to Download Pdf](https://github.com/AdarshVajpayee19/Aiml-Lab-Programs-VTU/blob/master/Pdfs/LabProgram4.pdf)
 ### 5. Backpropagation Algorithm.
-
+- [Click here to Download Pdf](https://github.com/AdarshVajpayee19/Aiml-Lab-Programs-VTU/blob/master/Pdfs/LabProgram5.pdf)
 ### 6. Naive Bayesian Classifier Algorithm.
 
 ### 7. EM Algorithm
