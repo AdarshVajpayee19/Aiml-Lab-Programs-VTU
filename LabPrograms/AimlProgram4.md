@@ -122,6 +122,7 @@ print(ans)
 ```
 ```yaml
 Given Play Tennis Data Set:
+
       Outlook Temperature Humidity    Wind Play Tennis
 0      Sunny         Hot     High    Weak          No
 1      Sunny         Hot     High  Strong          No
@@ -137,12 +138,15 @@ Given Play Tennis Data Set:
 11  Overcast        Mild     High  Strong         Yes
 12  Overcast         Hot   Normal    Weak         Yes
 13      Rain        Mild     High  Strong          No
-
 The resultant decision tree is:
 {'Outlook': {'Overcast': 'Yes',
              'Rain': {'Wind': {'Strong': 'No', 'Weak': 'Yes'}},
              'Sunny': {'Humidity': {'High': 'No', 'Normal': 'Yes'}}}}
-
-Classification for the test sample: No
-
+Outlook
+dict_keys(['Overcast', 'Rain', 'Sunny'])
+Sunny
+Humidity
+dict_keys(['High', 'Normal'])
+High
+No
 ```
